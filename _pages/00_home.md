@@ -52,7 +52,7 @@ TBD
 
 ### How do I submit?
 
-**Main deadline: TBD**
+**Main deadline: TBD**/
 
 Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional details on how to submit.
 
