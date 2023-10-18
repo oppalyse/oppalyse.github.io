@@ -33,7 +33,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Oppalyse
-blog_description: Journée Optimisation, Problèmes inverses et PArcimonie Lyon Saint-Etienne
+blog_description: Journée **O**ptimisation, **P**roblèmes inverses et **Pa**rcimonie **Ly**on **S**aint-**E**tienne
 
 # Pagination
 paginate: 4
