@@ -4,7 +4,7 @@
 name: "OPPALYSE"
 email:
 description: > # this means to ignore newlines until "url:"
-  Journée Optimisation, Problèmes inverses et PArcimonie Lyon Saint-Etienne
+  Journée Lyon Saint-Etienne sur l'optimisation, les problèmes inverses et la parcimonie
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
@@ -33,7 +33,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Oppalyse
-blog_description: Journée Lyon Saint-Etienne sur l'optimisation, les problèmes inverses et la parcimonie
+blog_description: Journée Optimisation, Problèmes inverses et PArcimonie Lyon Saint-Etienne
 
 # Pagination
 paginate: 4
