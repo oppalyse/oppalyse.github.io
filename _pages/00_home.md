@@ -1,9 +1,9 @@
 ---
 layout: home
 permalink: /
-title: ICLR2021
-desc_title: Neural Compression Workshop @ ICLR 2020
-description: From Information Theory to Applications 
+title: OPPALYSE2023
+desc_title: OPPALYSE
+description: Optimisation Problèmes Inverses Parcimonie Lyon Saint-Etienne
 ---
 
 TBD
