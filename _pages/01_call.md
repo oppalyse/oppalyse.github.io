@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cfp/
-title: Call for Papers
+title: Appel à communication
 ---
 
 TBD
