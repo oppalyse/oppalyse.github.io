@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: OPPALYSE2023
+title: OPPALYSE2024
 desc_title: OPPALYSE
 description: Optimisation Problèmes Inverses Parcimonie Lyon Saint-Etienne
 ---
