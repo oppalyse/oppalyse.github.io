@@ -3,7 +3,8 @@ layout: home
 permalink: /
 title: OPPALYSE2024
 desc_title: OPPALYSE
-description: Journée <b>O</b>ptimisation, <b>P</b>roblèmes inverses et <b>Pa</b>rcimonie <b>Ly</b>on <b>S</b>aint-<b>E</b>tienne (17 Février 2024)
+description: Journée <b>O</b>ptimisation, <b>P</b>roblèmes inverses et <b>Pa</b>rcimonie <b>Ly</b>on <b>S</b>aint-<b>E</b>tienne
+date: 16 Février 2024
 ---
 
 TBD
