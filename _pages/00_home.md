@@ -8,6 +8,13 @@ description: Journée <b>O</b>ptimisation, <b>P</b>roblèmes inverses et <b>Pa</
 
 TBD
 
+### Date et lieu
+
+Jeudi 16 Février 2024<br>
+
+Bibliothèque Marie Curie de l'INSA Lyon<br>
+31 Av. Jean Capelle O, 69100 Villeurbanne
+
 ### Intervenants attendus
 
 <table style="width:75%">
