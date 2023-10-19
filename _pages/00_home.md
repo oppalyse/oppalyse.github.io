@@ -16,8 +16,10 @@ Bibliothèque Marie Curie de l'INSA Lyon<br>
 31 Av. Jean Capelle O, 69100 Villeurbanne
 
 <div class="google-map">
-		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2597.265173144125!2d1.066137!3d49.3849757!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e0ddf2136ef7b9%3A0x7f83ca5859b93b67!2sINSA%20Rouen%20Normandie!5e0!3m2!1sfr!2sfr!4v1601627603413!5m2!1sfr!2sfr" width="555" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.441153170931!2d4.8738300762914095!3d45.78238897108092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c01fc39536dd%3A0x8d2619eada764a4d!2sBiblioth%C3%A8que%20Marie%20Curie%20de%20l&#39;INSA%20Lyon!5e0!3m2!1sfr!2sfr!4v1697699834064!5m2!1sfr!2sfr" width="555" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </div>
+
+
 
 
 ### Intervenants attendus
