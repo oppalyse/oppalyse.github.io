@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: "OPPALYSE"
+name_year: "OPPALYSE 2024"
 email:
 description: > # this means to ignore newlines until "url:"
   Journée Lyon Saint-Etienne sur l'optimisation, les problèmes inverses et la parcimonie
