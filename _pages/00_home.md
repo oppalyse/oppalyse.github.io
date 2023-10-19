@@ -12,7 +12,7 @@ La première édition d'OPPALYSE a été lancée dans le but de réunir les étu
 
 
 
-### Intervenants attendus
+### Intervenants (attente de confirmation)
 
 <table style="width:75%">
   <tr>
