@@ -3,7 +3,7 @@ layout: home
 permalink: /
 title: OPPALYSE2024
 desc_title: OPPALYSE
-description: Optimisation Problèmes Inverses Parcimonie Lyon Saint-Etienne
+description: Journée <b>O</b>ptimisation, <b>P</b>roblèmes inverses et <b>Pa</b>rcimonie <b>Ly</b>on <b>S</b>aint-<b>E</b>tienne
 ---
 
 TBD
