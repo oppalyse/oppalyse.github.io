@@ -15,7 +15,7 @@ TBD
     <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
     <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/suser.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/user.png" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://perso.ens-lyon.fr/elisa.riccietti/">Elisa Ricietti</a> <br> Associate Professor, OCKHAM Inria, ENS Lyon</td>
