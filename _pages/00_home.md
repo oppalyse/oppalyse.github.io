@@ -56,12 +56,15 @@ TBD
 
 Our [CFP]({{ site.baseurl }}{% link _pages/01_call.md %}) provides additional details on how to submit.
 
-### Organizers
+<h3>Equipe organisatrice</h3>
 
-* [Stephan Mandt](http://www.stephanmandt.com), University of California, Irvine
-* [Robert Bamler](https://robamler.github.io), University of Tübingen, Germany
-* [Yingzhen Li](http://yingzhenli.net/home/en/), Microsoft Research Cambridge
-* [Christopher Schroers](https://studios.disneyresearch.com/people/christopher-schroers/), Disney Research Studios
-* [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam; Qualcomm AI Research
-* [Yang Yang](https://yyang768osu.github.io), Qualcomm AI Research
-* [Taco Cohen](https://tacocohen.wordpress.com), Qualcomm AI Research
+<ul>
+  <li><a href="#">Jérémy Cohen</a>, Affiliation</li>
+  <li><a href="#">Jordan Frecon</a>, Affiliation</li>
+  <li><a href="#">Maxime Guillaud</a>, Affiliation</li>
+  <li><a href="#">Nelly Pustelnik</a>, Affiliation</li>
+  <li><a href="#">Laurent Seppecher</a>, Affiliation</li>
+  <li><a href="#">Juliàn Tachella</a>, Affiliation</li>
+</ul>
+
+
