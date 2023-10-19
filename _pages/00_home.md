@@ -56,12 +56,12 @@ Bibliothèque Marie Curie<br>INSA Lyon
 <h3>Equipe organisatrice</h3>
 
 <ul>
-  <li><a href="#">Jérémy Cohen</a>, Affiliation</li>
-  <li><a href="#">Jordan Frecon</a>, Affiliation</li>
-  <li><a href="#">Maxime Guillaud</a>, Affiliation</li>
-  <li><a href="#">Nelly Pustelnik</a>, Affiliation</li>
-  <li><a href="#">Laurent Seppecher</a>, Affiliation</li>
-  <li><a href="#">Juliàn Tachella</a>, Affiliation</li>
+  <li><a href="#">Jérémy Cohen</a>, CNRS, Creatis</li>
+  <li><a href="#">Jordan Frecon</a>, LabHC</li>
+  <li><a href="#">Maxime Guillaud</a>, Inria Citi</li>
+  <li><a href="#">Nelly Pustelnik</a>, CNRS, ENS Lyon</li>
+  <li><a href="#">Laurent Seppecher</a>, ICJ</li>
+  <li><a href="#">Juliàn Tachella</a>, CNRS, ENS Lyon</li>
 </ul>
 
 
