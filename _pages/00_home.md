@@ -8,7 +8,7 @@ date: 16 Février 2024
 ---
 
 
-Cette première édition d'OPPALYSE a été instaurée dans le but de réunir les acteurs locaux intéressés par les domaines de recherche en optimisation, en résolution de problèmes inverses et en parcimonie. Elle aspire à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération. Lyon et Saint-Étienne, en tant que pôles de recherche dynamiques, accueillent cet événement qui propose des présentations et des discussions pour favoriser les synergies et contribuer à l'avancement de la recherche. Nous attenons  avec enthousiasme la participation de tous pour faire de cette journée une réussite mémorable.
+La première édition d'OPPALYSE a été lancée dans le but de réunir les étudiants et chercheurs locaux intéressés par les domaines de l'optimisation, de la résolution de problèmes inverses et de la parcimonie. Elle vise à créer une dynamique de collaboration régionale en encourageant les échanges interdisciplinaires et en identifiant des opportunités de coopération. Lyon et Saint-Étienne, en tant que pôles de recherche dynamiques, accueillent cet événement qui propose des présentations et des discussions pour favoriser les synergies et contribuer à l'avancement de la recherche. Nous attendons avec enthousiasme la participation de tous pour faire de cette journée une réussite mémorable.
 
 
 
