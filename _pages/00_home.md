@@ -10,7 +10,7 @@ TBD
 
 ### Date et lieu
 
-<div class="one-third">
+<div class="one-third" style="magin-top:5%">
 
 Jeudi 16 Février 2024<br><br>
 
